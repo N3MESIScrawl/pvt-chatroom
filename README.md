@@ -18,7 +18,7 @@ ZWN CRAWL Chatroom is a Python-based chat application that enables real-time com
     ```
 
 
-2. Ensure you have Python installed on your system.
+2. Ensure you have Python3.11 installed on your system.
 
 ## Usage
 
