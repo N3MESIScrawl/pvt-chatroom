@@ -17,13 +17,8 @@ ZWN CRAWL Chatroom is a Python-based chat application that enables real-time com
     git clone https://github.com/N3MESIScrawl/pvt-chatroom.git
     ```
 
-2. Navigate to the project directory:
 
-    ```bash
-    cd zwn-crawl-chatroom
-    ```
-
-3. Ensure you have Python installed on your system.
+2. Ensure you have Python installed on your system.
 
 ## Usage
 
